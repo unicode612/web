@@ -1,10 +1,27 @@
 {
-  "ad_banner": "ca-app-pub-3940256099942544/6300978111",
-  "ad_appopen": "ca-app-pub-3940256099942544/3419835294",
-  "ad_interstitial": "ca-app-pub-3940256099942544/1033173712",
-  "ad_rewarded": "ca-app-pub-3940256099942544/5224354917",
-  "ad_native": "ca-app-pub-3940256099942544/2247696110",
-  "ad_type":1,
-  "click": 2,
-  "isdisplay": 1
+	"package_name": "statusdownloader.statussaver.storysaver",
+	"ads_status": "on",
+	"ads_second": 21,
+	"data": {
+		"ads_click": "3",
+		"appopen": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.AppOpen",
+		"appopen_splash": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.AppOpen2",
+		"banner": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Banner",
+		"banner_rect": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Banner2",
+		"inter_back": "",
+		"inter_click": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Interstitial3",
+		"inter_other": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Interstitial3",
+		"inter_sec": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Interstitial3",
+		"inter_splash": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Interstitial",
+		"inter_start": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Interstitial2",
+		"is_guide": "true",
+		"is_launch": "false",
+		"is_rectbanner": "false",
+		"is_splashinter": "true",
+		"isappid": "hdvideo.downloader.hdvideoplayer.allmediaplayerfree",
+		"isapplive": "true",
+		"native_big": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Native",
+		"native_small": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Native2",
+		"privacy_policy": "https:\/\/appfest1994.blogspot.com\/2019\/08\/privacy-policy.html"
+	}
 }
