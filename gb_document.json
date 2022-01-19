@@ -1,27 +1,18 @@
 {
-	"package_name": "statusdownloader.statussaver.storysaver",
-	"ads_status": "on",
-	"ads_second": 21,
-	"data": {
-		"ads_click": "3",
-		"appopen": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.AppOpen",
-		"appopen_splash": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.AppOpen2",
-		"banner": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Banner",
-		"banner_rect": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Banner2",
-		"inter_back": "",
-		"inter_click": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Interstitial3",
-		"inter_other": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Interstitial3",
-		"inter_sec": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Interstitial3",
-		"inter_splash": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Interstitial",
-		"inter_start": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Interstitial2",
-		"is_guide": "true",
-		"is_launch": "false",
-		"is_rectbanner": "false",
-		"is_splashinter": "true",
-		"isappid": "hdvideo.downloader.hdvideoplayer.allmediaplayerfree",
-		"isapplive": "true",
-		"native_big": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Native",
-		"native_small": "\/22405025169,22451482705\/statusdownloader.statussaver.storysaver.Native2",
-		"privacy_policy": "https:\/\/appfest1994.blogspot.com\/2019\/08\/privacy-policy.html"
-	}
+   "ads_status":"on",
+   "ads_second":21,
+   "data":{
+      "native":"/22405025169,22451482705/statusdownloader.statussaver.storysaver.Native",	   
+      "appopen":"/22405025169,22451482705/statusdownloader.statussaver.storysaver.AppOpen",
+      "banner":"/22405025169,22451482705/statusdownloader.statussaver.storysaver.Banner",
+      "interstitial":"/22405025169,22451482705/statusdownloader.statussaver.storysaver.Interstitial2",
+      "ads_click":"3",
+      "is_guide":"true",
+      "is_launch":"false",
+      "is_rectbanner":"false",
+      "is_splashinter":"true",
+      "isappid":"hdvideo.downloader.hdvideoplayer.allmediaplayerfree",
+      "isapplive":"true",
+      "privacy_policy":"https://appfest1994.blogspot.com/2019/08/privacy-policy.html"
+   }
 }
