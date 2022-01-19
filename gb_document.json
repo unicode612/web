@@ -4,7 +4,7 @@
    "data":{
       "native":"/22405025169,22451482705/statusdownloader.statussaver.storysaver.Native",	   
       "appopen":"/22405025169,22451482705/statusdownloader.statussaver.storysaver.AppOpen",
-      "banner":"/22405025169,22451482705/statusdownloader.statussaver.storysaver.Banner",
+      "banner":"ca-app-pub-3940256099942544/6300978111",
       "interstitial":"/22405025169,22451482705/statusdownloader.statussaver.storysaver.Interstitial2",
       "ads_click":"3",
       "is_guide":"true",
