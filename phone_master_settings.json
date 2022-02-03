@@ -22,6 +22,7 @@
         "tag11": "rowhide",
         "tag12": "test",
         "isActive_Ads": "1",
+        "isActive_Interstitials": "1",
         "interestial_Count": "3",
         "interstitial_Show": "1",
         "native_Counter": "1",
