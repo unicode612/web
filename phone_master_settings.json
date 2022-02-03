@@ -21,14 +21,11 @@
         "String_PU": "test",
         "tag11": "rowhide",
         "tag12": "test",
-        "isActive_Interestial": "1",
         "interestial_Count": "4",
         "interstitial_Show": "1",
         "native_Counter": "1",
-        "is_Local_Ads": "0",
         "version_Code": "1.5",
         "String_PL": "https://unicode612.github.io/web/safevault_privacy_policy.html",
-        "date_added": "2021-12-18 12:21:36",
         "ads_id": "5"
     }
 }
