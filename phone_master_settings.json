@@ -3,6 +3,7 @@
     "status_code": 200,
     "msg": "Get successfully!",
     "data": {
+        "consentMessage": "true",
         "package_id": "com.safevault",
         "package_name": "com.safevault",
         "app_name": "iOS - Safe Vault",
