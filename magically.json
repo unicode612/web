@@ -2,9 +2,9 @@
    "msg": "Thank You",
    "status_code": 200,
    "data": {
-      "isAdsShow": "0",
+      "isAdsShow": "1",
       "consentMessage": "0",
-      "isActive_Interestial": "1",
+      "isActive_Interestial": "0",
       "interestial_Count": "3",
       "ads_Type_Open": "google",
       "ads_Type_Inter": "google",
@@ -24,7 +24,7 @@
       "isInnerNative": "1",
       "isRanderNative": "0",
       "isDownloadNative": "0",
-      "isIntroOpen": "1",
+      "isIntroOpen": "0",
       "isHomeNative": "0",
       "String_PL": "https://unicode612.github.io/web/ios_privacy_policy.html"
    },
