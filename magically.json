@@ -2,7 +2,7 @@
    "msg": "Thank You",
    "status_code": 200,
    "data": {
-      "isAdsShow": "1",
+      "isAdsShow": "0",
       "consentMessage": "0",
       "isActive_Interestial": "1",
       "interestial_Count": "3",
