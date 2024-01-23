@@ -3,8 +3,8 @@
    "status_code": 200,
    "data": {
       "isAdsShow": "1",
-      "consentMessage": "1",
-      "isActive_Interestial": "1",
+      "consentMessage": "0",
+      "isActive_Interestial": "0",
       "interestial_Count": "3",
       "ads_Type_Open": "google",
       "ads_Type_Inter": "google",
@@ -21,10 +21,10 @@
       "fb_Native": "986758519378347_986809746039891",
       "fb_Reward": "YOUR_PLACEMENT_ID",
       "String_PU": "YOUR_PLACEMENT_ID",
-      "isInnerNative": "1",
+      "isInnerNative": "0",
       "isRanderNative": "0",
       "isDownloadNative": "0",
-      "isIntroOpen": "1",
+      "isIntroOpen": "0",
       "isHomeNative": "0",
       "String_PL": "https://unicode612.github.io/web/ios_privacy_policy.html"
    },
